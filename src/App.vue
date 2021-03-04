@@ -25,14 +25,7 @@
 </script>
 
 <style lang="scss">
-    body{
-      background-color: DarkSalmon ;
-    }
-    .wrapper{
-      width: 1200px;
-      height: auto;
-      padding: 0px 15px;
-      margin-left: auto;
-      margin-right: auto;
+    .asdasd{
+      margin: 0px;
     }
 </style>

@@ -1,6 +1,12 @@
 <template>
     <div class="document">
-        <slot/>
+        <div class="document__content">
+            home
+            <slot/>
+        </div>
+        <div class="document__footer">
+            
+        </div>
     </div>
 </template>
 
