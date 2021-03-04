@@ -1,12 +1,6 @@
 <template>
     <div class="document">
-        <div class="document__content">
-            default
-            <slot/>
-        </div>
-        <div class="document__footer">
-
-        </div>
+        <slot/>
     </div>
 </template>
 
